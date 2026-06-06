@@ -66,10 +66,6 @@ We take your account security very seriously.
 
 ---
 
-## 🎨 Server-Driven UI (SDUI)
-ValoVault is powered by a custom **Server-Driven UI** engine. This means the app's layout, announcements, events, and styling can be updated dynamically over the air without requiring you to download a new app update! When a new VCT event or game act drops, the app transforms to match the theme instantly.
-
----
 
 ## ⚠️ Disclaimer
 
